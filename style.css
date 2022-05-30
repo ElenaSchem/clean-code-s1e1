@@ -78,7 +78,7 @@
 
 /* Heading */
 .task-list__title,
-.new-task__add {
+.new-task__label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -106,12 +106,12 @@
 }
 
 /* New Task */
-.new-task__add {
+.new-task__label {
   display: block;
   margin: 0 0 20px;
 }
 
-#new-task.task__input {
+.new-task__input.task__input {
   width: 318px;
 }
 
